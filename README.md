@@ -7,4 +7,4 @@ Private rep of my 30-days of JavaScript projects
   - 30 JS projects uploaded to GitHub
   - Complete FreeCodeCamps "JavaScript Algorithms and Data Structures" Course
   - Complete the projects for the course and get certificate
-  - 
+  - Learn more about React.js, Node.js, Ajax, JQuery, TypeScript, and JSON.
