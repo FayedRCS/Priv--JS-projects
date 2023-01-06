@@ -5,3 +5,6 @@ Private rep of my 30-days of JavaScript projects
 
 ### Goals:
   - 30 JS projects uploaded to GitHub
+  - Complete FreeCodeCamps "JavaScript Algorithms and Data Structures" Course
+  - Complete the projects for the course and get certificate
+  - 
