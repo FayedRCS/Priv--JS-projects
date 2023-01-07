@@ -9,3 +9,5 @@ Private rep of my 30-days of JavaScript projects
   - Complete the projects for the course and get certificate
   - Learn more about React.js, Node.js, Ajax, JQuery, TypeScript, and JSON.
   - Relearn SQL and basic Database knowledge.
+  
+  First projects complete
