@@ -13,4 +13,4 @@ Private rep of my 30-days of JavaScript projects
   -------------------------
   completed the first project, but still behind a bunch, tomorrow i will do more
 
-  Also completed another subcourse in the 
+  Also completed another subcourse in the FreeCodeCamp 
