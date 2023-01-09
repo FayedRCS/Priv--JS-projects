@@ -16,3 +16,4 @@ Private rep of my 30-days of JavaScript projects
   Also completed another subcourse in the FreeCodeCamp JavaScript Algorithms and Data Structures
   Great!
 Completing more projects before Feburary
+Going to try to complete the 4 fist courses in FCC code course
