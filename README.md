@@ -15,3 +15,4 @@ Private rep of my 30-days of JavaScript projects
 
   Also completed another subcourse in the FreeCodeCamp JavaScript Algorithms and Data Structures
   Great!
+Keeping it going let's go
