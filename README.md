@@ -15,4 +15,4 @@ Private rep of my 30-days of JavaScript projects
 
   Also completed another subcourse in the FreeCodeCamp JavaScript Algorithms and Data Structures
   Great!
-Gotta keep coding
+Keeping up with the projects is hard, but i gotta make it 
