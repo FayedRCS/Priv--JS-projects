@@ -17,3 +17,4 @@ Private rep of my 30-days of JavaScript projects
   Great!
 Completing more projects before Feburary
 Going to try to complete the 4 fist courses in FCC code course
+I want to work at a big company so bad
