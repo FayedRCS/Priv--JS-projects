@@ -11,6 +11,7 @@ Private rep of my 30-days of JavaScript projects
   - Relearn SQL and basic Database knowledge.
   - Work at a nice company
   
+  
   -------------------------
   completed the first project, but still behind a bunch, tomorrow i will do more
 
